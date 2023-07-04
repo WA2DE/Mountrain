@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573143619220",
+    "project_id": "authentification-demo-619c4",
+    "storage_bucket": "authentification-demo-619c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573143619220:android:8106f7745e2defbaa4c681",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mountrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573143619220-rks1haa97rbqf0fo8flutmk39u7ik53h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxSTSI0t5eSDwOmvmmSAjDjaskl2E20k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573143619220-rks1haa97rbqf0fo8flutmk39u7ik53h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
